@@ -1,5 +1,7 @@
 ## Getting and Cleaning Data - Course Project
 
+The script runs and create a directory in which it downloads data that it will use to create tidy.txt
+
 1. Download course files and unzip
 2. Merges the training and the test sets to create one data set.
 3. Extracts only the measurements on the mean and standard deviation for each measurement.
